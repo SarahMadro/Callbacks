@@ -1,5 +1,4 @@
 var countdownGenerator = function (x) {
-  let tMinus = [];
   let i = x;
 
   return function() {
